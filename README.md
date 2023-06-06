@@ -1,8 +1,8 @@
 ### Hi, I'm Pearce Allen👋
 
+[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter] -->
-[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 <!-- [<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium] -->
 <!-- [<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto] -->
 
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[gmail]: mailto:pearce.p.allen@gmail.com
 [linkedin]: https://www.linkedin.com/in/pearce-allen-bb51a01aa/
 <!-- [twitter]: https://www.twitter.com/itsmetherogue/ -->
-[gmail]: mailto:pearce.p.allen@gmail.com
 <!-- [medium]: https://tassiaaccioly.medium.com/ -->
 <!-- [devto]: https://dev.to/tassiaaccioly -->
